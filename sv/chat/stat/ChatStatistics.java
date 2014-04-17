@@ -1,12 +1,8 @@
 package sv.chat.stat;
 
 import java.io.BufferedReader;
-import java.io.File;
 import java.io.FileReader;
-import java.text.SimpleDateFormat;
-import java.util.Date;
 import java.util.HashMap;
-import java.util.Locale;
 import java.util.Map;
 import java.util.StringTokenizer;
 
