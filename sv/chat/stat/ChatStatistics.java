@@ -33,8 +33,7 @@ public class ChatStatistics {
 						messagePerHeadCount.put(name, 0);
 					}
 
-					//System.out.println(date);
-					// System.out.println(name);
+					
 				}else{
 
 				}
